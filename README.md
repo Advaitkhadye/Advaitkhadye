@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Temperature Converter](https://github.com/Advaitkhadye/Temperature_Converter)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Advaitkhadye](https://github.com/Advaitkhadye)
 
