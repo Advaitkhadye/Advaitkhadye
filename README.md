@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=advaitkhadye" alt="advaitkhadye" /></a> </p>
 
-- 🔭 I’m currently working on [Temperature Converter](https://github.com/Advaitkhadye/Temperature_Converter)
+- 🔭 I’m currently working on IPL STATISTICS DASHBOARD
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **ETL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Advaitkhadye](https://github.com/Advaitkhadye)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Data Analysis**
 
 - 📫 How to reach me **advaitkhadye08@gmail.com**
 
